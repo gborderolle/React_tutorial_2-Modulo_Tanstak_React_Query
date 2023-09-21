@@ -1,0 +1,17 @@
+1. instalaciones
+npm install @tanstack/react-query
+
+
+2. ejecutar
+backend: npm start
+npm run dev
+
+---------
+Tanstack
+
+Uso:
+- HTTP request al backend (API)
+
+Beneficios:
+- Recarga más ágil (fetching)
+- Usa caching
